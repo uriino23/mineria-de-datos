@@ -1,0 +1,21 @@
+ID_Venta,Fecha,Producto,Categoria,Cantidad,Precio_Unitario,Ciudad,Vendedor
+1,2026-01-05,Laptop HP,Laptops,2,14500,CDMX,Ana
+2,2026-01-05,Mouse Logitech,Accesorios,5,350,CDMX,Carlos
+3,2026-01-06,Monitor Samsung,Monitores,1,4200,Puebla,Ana
+4,2026-01-06,Teclado Redragon,Accesorios,3,850,Toluca,Luis
+5,2026-01-07,Laptop Lenovo,Laptops,1,16500,Puebla,Carlos
+6,2026-01-08,SSD Kingston,Almacenamiento,4,1200,CDMX,Ana
+7,2026-01-08,Memoria RAM 16GB,Componentes,3,1800,Toluca,Luis
+8,2026-01-09,Monitor LG,Monitores,2,3900,Puebla,Carlos
+9,2026-01-10,Laptop ASUS,Laptops,1,17500,CDMX,Ana
+10,2026-01-10,Mouse Logitech,Accesorios,6,350,Toluca,Luis
+11,2026-01-11,SSD Kingston,Almacenamiento,2,1200,Puebla,Carlos
+12,2026-01-12,Teclado Redragon,Accesorios,2,850,CDMX,Ana
+13,2026-01-12,Monitor Samsung,Monitores,1,4200,Toluca,Luis
+14,2026-01-13,Laptop HP,Laptops,1,14500,Puebla,Carlos
+15,2026-01-14,Memoria RAM 16GB,Componentes,5,1800,CDMX,Ana
+16,2026-01-15,SSD Kingston,Almacenamiento,3,1200,Toluca,Luis
+17,2026-01-15,Monitor LG,Monitores,1,3900,CDMX,Ana
+18,2026-01-16,Laptop Lenovo,Laptops,2,16500,Puebla,Carlos
+19,2026-01-17,Mouse Logitech,Accesorios,8,350,Toluca,Luis
+20,2026-01-18,Memoria RAM 16GB,Componentes,2,1800,CDMX,Ana
