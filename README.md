@@ -17,3 +17,10 @@
 | 15 | Verificación de número primo | [primo.py](primo.py) |
 | 16 | Script interactivo de saludo | [saludo.py](saludo.py) |
 | 17 | Registro de datos comerciales | [ventas.csv](ventas.csv) |
+| # | Ejercicio bloque 2| Archivo |
+|---|---|---|
+| 1 | Cálculo de medidas de tendencia central | tendencia_central1.py |
+| 2 | Cálculo de medidas de dispersión | medidas_de_dispersion2.py |
+| 3 | Análisis de correlación estadística | corelación3.py |
+| 4 | Generación de tablas de datos | tablas4.py |
+| 5 | Base de datos de estudiantes (Entrada) | estudiantes(in).csv |
