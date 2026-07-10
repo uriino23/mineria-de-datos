@@ -19,7 +19,7 @@
 | 17 | Registro de datos comerciales | [ventas.csv](ventas.csv) |
 | # | Ejercicio bloque 2| Archivo |
 |---|---|---|
-| 1 | Cálculo de medidas de tendencia central | [tendencia_central1.py](https://github.com/uriino23/mineria-de-datendecia_central1.py))|
+| 1 | Cálculo de medidas de tendencia central | [tendencia_central1.py](https://github.com/uriino23/mineria-de-datendecia_central1.py) |
 | 2 | Cálculo de medidas de dispersión | [medidas_de_dispersion2.py](medidas_de_dispersion2.py) |
 | 3 | Análisis de correlación estadística | [corelación3.py](corelación3.py) |
 | 4 | Generación de tablas de datos | [tablas4.py](tablas4.py) |
