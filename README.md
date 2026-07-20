@@ -18,9 +18,10 @@
 | 16 | Script interactivo de saludo | [saludo.py](saludo.py) |
 | 17 | Registro de datos comerciales | [ventas.csv](ventas.csv) |
 | # | Ejercicio bloque 2| Archivo |
-|---|---|---|
-| 1 | Cálculo de medidas de tendencia central | [tendencia_central1.py](https://github.com/uriino23/mineria-de-datendecia_central1.py) |
-| 2 | Cálculo de medidas de dispersión | [medidas_de_dispersion2.py](medidas_de_dispersion2.py) |
-| 3 | Análisis de correlación estadística | [corelación3.py](corelación3.py) |
-| 4 | Generación de tablas de datos | [tablas4.py](tablas4.py) |
-| 5 | Base de datos de estudiantes (Entrada) | [estudiantes(in).csv](estudiantes(in).csv) |
+* [Tendencia Central 1](tendecia_central_1.py) - Script de código sobre medidas de tendencia central.
+* [Medidas de Dispersión 2](medidas_de_dispersion_2.py) - Script de código para el cálculo de dispersión.
+* [Correlación 3](correlacion_3.py) - Script enfocado en análisis de correlación.
+* [Tablas 4](tablas_4.py) - Script para la generación y manejo de tablas de datos.
+* [Árbol 5](arbol_5.jpg) - Archivo gráfico (Imagen JPEG) relacionado con estructuras de árbol o diagramas.
+* [Ejercicio 6](ejercicio_6.jpg) - Enunciado o resolución gráfica (Imagen JPEG) del ejercicio 6.
+* [Ejercicio 7](ejercicio_7.py) - Script de código correspondiente al ejercicio 7.
