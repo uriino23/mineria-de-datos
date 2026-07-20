@@ -26,5 +26,5 @@ Este repositorio contiene los scripts de código, bases de datos y archivos de a
 | 20 | Bloque 2 - Análisis de correlación | [correlacion_3.py](correlacion_3.py) |
 | 21 | Bloque 2 - Generación y manejo de tablas | [tablas_4.py](tablas_4.py) |
 | 22 | Bloque 2 - Gráfico o diagrama de árbol | [arbol_5.jpg](arbol_5.jpg) |
-| 23 | Bloque 2 - Enunciado o resolución del ejercicio 6 | [ejercicio_6.jpg](ejercicio_6.jpg) |
+| 23 | Bloque 2 - Enunciado o resolución del ejercicio 6 | [ejercicio_6.jpg](ejercicio_6.jpeg) |
 | 24 | Bloque 2 - Script del ejercicio 7 | [ejercicio_7.py](ejercicio_7.py) |
