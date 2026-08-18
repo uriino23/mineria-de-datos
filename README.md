@@ -28,5 +28,7 @@ Este repositorio contiene los scripts de código, bases de datos y archivos de a
 | 22 | Bloque 2 - Gráfico o diagrama de árbol | [arbol_5.jpg](arbol_5.jpg) |
 | 23 | Bloque 2 - Enunciado o resolución del ejercicio 6 | [ejercicio_6.jpg](ejercicio_6.jpeg) |
 | 24 | Bloque 2 - Script del ejercicio 7 | [ejercicio_7.py](ejercicio_7.py) |
-| 23 | Bloque 3 - KMeans  | [KMeans.py](kMeans.py) |
-| 23 | Bloque 3 - nuerona artificial  | [neurona2.py](neurona2.py) |
+| 25 | Bloque 3 - KMeans  | [KMeans.py](kMeans.py) |
+| 26 | Bloque 3 - nuerona artificial  | [neurona2.py](neurona2.py) |
+| 27 | Bloque 3 - redes neuronales  | [redes_neuronales.py](redes_neuronales.py) |
+
